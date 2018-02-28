@@ -1,6 +1,22 @@
 ## Gradient Descent Example for Linear Regression
 python3下使用梯度下降实现线性回归
---
+
+部分数据集
+
+| x | y |
+|---|---|
+|32.502345269453031|31.70700584656992|
+|53.426804033275019|68.77759598163891|
+|61.530358025636438|62.562382297945803|
+|47.475639634786098|71.546632233567777|
+|59.813207869512318|87.230925133687393|
+|55.142188413943821|78.211518270799232|
+|52.211796692214001|79.64197304980874|
+|39.299566694317065|59.171489321869508|
+|48.10504169176825|75.331242297063056|
+
+
 拟合效果如下所示
 
-![result](https://github.com/wapleeeeee/GradientDescentExample/blob/master/photo/result.png)
+<img src="https://github.com/wapleeeeee/GradientDescentExample/blob/master/photo/result.png" width="495">
+
